@@ -157,18 +157,14 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="samnet-dev--findns"></div>
+<div id="kamalalhagh--kevinnet-dns"></div>
 
-### SamNet-dev--findns
+### kamalalhagh--kevinnet-dns
 
-🔗 [source](https://github.com/SamNet-dev/findns) – [<code><small>v0.2.2.1</small></code>](https://github.com/SamNet-dev/findns/releases/tag/v0.2.2.1)
+🔗 [source](https://github.com/kamalalhagh/kevinnet-dns) – [<code><small>v3.1.7</small></code>](https://github.com/kamalalhagh/kevinnet-dns/releases/tag/v3.1.7)
 
 | File | Size | Download |
 |------|------|----------|
-| `dnstt-client-linux` | 8.7 MB | [⬇️ Download](https://raw.githubusercontent.com/ch4mr00sh/LatestReleaseMirrorWithSher/main/releases/SamNet-dev/findns/dnstt-client-linux) |
-| `dnstt-client.exe` | 8.9 MB | [⬇️ Download](https://raw.githubusercontent.com/ch4mr00sh/LatestReleaseMirrorWithSher/main/releases/SamNet-dev/findns/dnstt-client.exe) |
-| `findns-linux-amd64` | 8.1 MB | [⬇️ Download](https://raw.githubusercontent.com/ch4mr00sh/LatestReleaseMirrorWithSher/main/releases/SamNet-dev/findns/findns-linux-amd64) |
-| `findns-linux-arm64` | 7.6 MB | [⬇️ Download](https://raw.githubusercontent.com/ch4mr00sh/LatestReleaseMirrorWithSher/main/releases/SamNet-dev/findns/findns-linux-arm64) |
-| `findns-windows-amd64.exe` | 8.4 MB | [⬇️ Download](https://raw.githubusercontent.com/ch4mr00sh/LatestReleaseMirrorWithSher/main/releases/SamNet-dev/findns/findns-windows-amd64.exe) |
-| `slipstream-client-linux-amd64` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/ch4mr00sh/LatestReleaseMirrorWithSher/main/releases/SamNet-dev/findns/slipstream-client-linux-amd64) |
+| `KevinNet_Linux_x64` | 39.9 MB | [⬇️ Download](https://raw.githubusercontent.com/ch4mr00sh/LatestReleaseMirrorWithSher/main/releases/kamalalhagh/kevinnet-dns/KevinNet_Linux_x64) |
+| `KevinNet_Windows_x64.exe` | 26.4 MB | [⬇️ Download](https://raw.githubusercontent.com/ch4mr00sh/LatestReleaseMirrorWithSher/main/releases/kamalalhagh/kevinnet-dns/KevinNet_Windows_x64.exe) |
 <!-- RELEASES_END -->
