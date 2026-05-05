@@ -157,5 +157,18 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="samnet-dev--findns"></div>
 
+### SamNet-dev--findns
+
+🔗 [source](https://github.com/SamNet-dev/findns) – [<code><small>v0.2.2.1</small></code>](https://github.com/SamNet-dev/findns/releases/tag/v0.2.2.1)
+
+| File | Size | Download |
+|------|------|----------|
+| `dnstt-client-linux` | 8.7 MB | [⬇️ Download](https://raw.githubusercontent.com/ch4mr00sh/LatestReleaseMirrorWithSher/main/releases/SamNet-dev/findns/dnstt-client-linux) |
+| `dnstt-client.exe` | 8.9 MB | [⬇️ Download](https://raw.githubusercontent.com/ch4mr00sh/LatestReleaseMirrorWithSher/main/releases/SamNet-dev/findns/dnstt-client.exe) |
+| `findns-linux-amd64` | 8.1 MB | [⬇️ Download](https://raw.githubusercontent.com/ch4mr00sh/LatestReleaseMirrorWithSher/main/releases/SamNet-dev/findns/findns-linux-amd64) |
+| `findns-linux-arm64` | 7.6 MB | [⬇️ Download](https://raw.githubusercontent.com/ch4mr00sh/LatestReleaseMirrorWithSher/main/releases/SamNet-dev/findns/findns-linux-arm64) |
+| `findns-windows-amd64.exe` | 8.4 MB | [⬇️ Download](https://raw.githubusercontent.com/ch4mr00sh/LatestReleaseMirrorWithSher/main/releases/SamNet-dev/findns/findns-windows-amd64.exe) |
+| `slipstream-client-linux-amd64` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/ch4mr00sh/LatestReleaseMirrorWithSher/main/releases/SamNet-dev/findns/slipstream-client-linux-amd64) |
 <!-- RELEASES_END -->
