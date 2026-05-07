@@ -157,13 +157,5 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="alireza0--x-ui"></div>
 
-### alireza0--x-ui
-
-🔗 [source](https://github.com/alireza0/x-ui) – [<code><small>v1.10.2</small></code>](https://github.com/alireza0/x-ui/releases/tag/v1.10.2)
-
-| File | Size | Download |
-|------|------|----------|
-| `x-ui-linux-amd64.tar.gz` | 46.2 MB | [⬇️ Download](https://raw.githubusercontent.com/ch4mr00sh/LatestReleaseMirrorWithSher/main/releases/alireza0/x-ui/x-ui-linux-amd64.tar.gz) |
 <!-- RELEASES_END -->
