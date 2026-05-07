@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="therealaleph--masterhttprelayvpn-rust"></div>
+<div id="alireza0--x-ui"></div>
 
-### therealaleph--MasterHttpRelayVPN-RUST
+### alireza0--x-ui
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.15</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.15)
+🔗 [source](https://github.com/alireza0/x-ui) – [<code><small>v1.10.2</small></code>](https://github.com/alireza0/x-ui/releases/tag/v1.10.2)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-openwrt-mipsel-softfloat.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/ch4mr00sh/LatestReleaseMirrorWithSher/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) |
+| `x-ui-linux-amd64.tar.gz` | 46.2 MB | [⬇️ Download](https://raw.githubusercontent.com/ch4mr00sh/LatestReleaseMirrorWithSher/main/releases/alireza0/x-ui/x-ui-linux-amd64.tar.gz) |
 <!-- RELEASES_END -->
