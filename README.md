@@ -157,14 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="kamalalhagh--kevinnet-dns"></div>
+<div id="therealaleph--masterhttprelayvpn-rust"></div>
 
-### kamalalhagh--kevinnet-dns
+### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/kamalalhagh/kevinnet-dns) – [<code><small>v3.1.7</small></code>](https://github.com/kamalalhagh/kevinnet-dns/releases/tag/v3.1.7)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.15</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.15)
 
 | File | Size | Download |
 |------|------|----------|
-| `KevinNet_Linux_x64` | 39.9 MB | [⬇️ Download](https://raw.githubusercontent.com/ch4mr00sh/LatestReleaseMirrorWithSher/main/releases/kamalalhagh/kevinnet-dns/KevinNet_Linux_x64) |
-| `KevinNet_Windows_x64.exe` | 26.4 MB | [⬇️ Download](https://raw.githubusercontent.com/ch4mr00sh/LatestReleaseMirrorWithSher/main/releases/kamalalhagh/kevinnet-dns/KevinNet_Windows_x64.exe) |
+| `mhrv-rs-openwrt-mipsel-softfloat.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/ch4mr00sh/LatestReleaseMirrorWithSher/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) |
 <!-- RELEASES_END -->
