@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="shahinst--cdn-ip-scanner"></div>
+<div id="peditx--ezpasswall"></div>
 
-### shahinst--cdn-ip-scanner
+### peditx--EZpasswall
 
-🔗 [source](https://github.com/shahinst/cdn-ip-scanner) – [<code><small>Latest</small></code>](https://github.com/shahinst/cdn-ip-scanner/releases/tag/Latest)
+🔗 [source](https://github.com/peditx/EZpasswall) – [<code><small>1.0.4</small></code>](https://github.com/peditx/EZpasswall/releases/tag/1.0.4)
 
 | File | Size | Download |
 |------|------|----------|
-| `CDN-IP-Scanner.V2.0.Windows.zip` | 22.8 MB | [⬇️ Download](https://raw.githubusercontent.com/ch4mr00sh/LatestReleaseMirrorWithSher/main/releases/shahinst/cdn-ip-scanner/CDN-IP-Scanner.V2.0.Windows.zip) |
+| `PeDitX_2_1.0.4.apk` | 1.1 MB | [⬇️ Download](https://raw.githubusercontent.com/ch4mr00sh/LatestReleaseMirrorWithSher/main/releases/peditx/EZpasswall/PeDitX_2_1.0.4.apk) |
 <!-- RELEASES_END -->
