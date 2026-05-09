@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="mhsanaei--3x-ui"></div>
+<div id="shahinst--cdn-ip-scanner"></div>
 
-### MHSanaei--3x-ui
+### shahinst--cdn-ip-scanner
 
-🔗 [source](https://github.com/MHSanaei/3x-ui) – [<code><small>v2.9.4</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v2.9.4)
+🔗 [source](https://github.com/shahinst/cdn-ip-scanner) – [<code><small>Latest</small></code>](https://github.com/shahinst/cdn-ip-scanner/releases/tag/Latest)
 
 | File | Size | Download |
 |------|------|----------|
-| `x-ui-linux-amd64.tar.gz` | 67.9 MB | [⬇️ Download](https://raw.githubusercontent.com/ch4mr00sh/LatestReleaseMirrorWithSher/main/releases/MHSanaei/3x-ui/x-ui-linux-amd64.tar.gz) |
+| `CDN-IP-Scanner.V2.0.Windows.zip` | 22.8 MB | [⬇️ Download](https://raw.githubusercontent.com/ch4mr00sh/LatestReleaseMirrorWithSher/main/releases/shahinst/cdn-ip-scanner/CDN-IP-Scanner.V2.0.Windows.zip) |
 <!-- RELEASES_END -->
