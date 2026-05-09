@@ -9,4 +9,5 @@
 #therealaleph/MasterHttpRelayVPN-RUST|mhrv-rs-openwrt-mipsel-softfloat.tar.gz
 #alireza0/x-ui|x-ui-linux-amd64.tar.gz 
 #MHSanaei/3x-ui|x-ui-linux-amd64.tar.gz
-shahinst/cdn-ip-scanner|CDN-IP-Scanner.V2.0.Windows.zip
+#shahinst/cdn-ip-scanner|CDN-IP-Scanner.V2.0.Windows.zip
+peditx/EZpasswall|PeDitX_2_1.0.4.apk 
