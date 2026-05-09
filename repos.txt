@@ -7,4 +7,5 @@
 
 #kamalalhagh/kevinnet-dns|KevinNet_Windows_x64.exe|KevinNet_Linux_x64 
 #therealaleph/MasterHttpRelayVPN-RUST|mhrv-rs-openwrt-mipsel-softfloat.tar.gz
-alireza0/x-ui|x-ui-linux-amd64.tar.gz 
+#alireza0/x-ui|x-ui-linux-amd64.tar.gz 
+MHSanaei/3x-ui|x-ui-linux-amd64.tar.gz
