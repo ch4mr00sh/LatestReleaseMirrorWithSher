@@ -157,13 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="peditx--ezpasswall"></div>
+<div id="mhsanaei--3x-ui"></div>
 
-### peditx--EZpasswall
+### MHSanaei--3x-ui
 
-🔗 [source](https://github.com/peditx/EZpasswall) – [<code><small>1.0.4</small></code>](https://github.com/peditx/EZpasswall/releases/tag/1.0.4)
+🔗 [source](https://github.com/MHSanaei/3x-ui) – [<code><small>v3.0.0</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v3.0.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `PeDitX_2_1.0.4.apk` | 1.1 MB | [⬇️ Download](https://raw.githubusercontent.com/ch4mr00sh/LatestReleaseMirrorWithSher/main/releases/peditx/EZpasswall/PeDitX_2_1.0.4.apk) |
+| `x-ui-linux-amd64.tar.gz` | 68.7 MB | [⬇️ Download](https://raw.githubusercontent.com/ch4mr00sh/LatestReleaseMirrorWithSher/main/releases/MHSanaei/3x-ui/x-ui-linux-amd64.tar.gz) |
 <!-- RELEASES_END -->
